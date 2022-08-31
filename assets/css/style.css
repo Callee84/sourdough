@@ -1,0 +1,34 @@
+/* Google Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&family=Oswald:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none; 
+}
+
+
+body {
+    font-family: 'oswald', sans-serif;
+    font-weight: 300;
+    color :#3a3a3a;
+}
+
+#menu {
+    float: right ;
+    text-decoration: uppercase;
+    display: inline;
+}
+
+#menu li {
+    list-style-type: none;
+
+}
+
+#bread-img {
+    height: 500px;
+    width: 100%;
+    background: url(/assets/images/Surdeg_1.jpeg) no-repeat center center;
+   
+}
