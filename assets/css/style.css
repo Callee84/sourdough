@@ -18,7 +18,7 @@ body {
 /* heading and logo */
 
 #bread-img {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background: url(/assets/images/Surdeg_1.jpeg) no-repeat center;
     position: relative;
@@ -42,17 +42,17 @@ body {
 .nav-bar a {
     text-transform: uppercase;
     color: #fff;
-    font-size: 30px;
+    font-size: 40px;
     text-decoration: none;
-    padding: 5px 5px;
+    padding: 10px;
     display: inline;
     float: right;
-    margin-right: 15px;
     text-align: right;
+    text
 }
 
 .active {
-    border-bottom: 1px solid #fff;
+    border-bottom: 2px solid #fff;
 }
 
 .nav-bar a:hover {
@@ -60,7 +60,23 @@ body {
     color: #fff;
 }
 
+/* h1 and h2 */
 
+h1 {
+    text-align: center;
+    font-size: 250%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 190%;
+}
+
+p {
+    text-align: center;
+    font-size: 140%;
+
+}
 
 
 
