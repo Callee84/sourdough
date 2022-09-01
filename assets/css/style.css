@@ -15,20 +15,52 @@ body {
     color :#3a3a3a;
 }
 
-#menu {
-    float: right ;
-    text-decoration: uppercase;
-    display: inline;
-}
-
-#menu li {
-    list-style-type: none;
-
-}
+/* heading and logo */
 
 #bread-img {
     height: 500px;
     width: 100%;
-    background: url(/assets/images/Surdeg_1.jpeg) no-repeat center center;
-   
+    background: url(/assets/images/Surdeg_1.jpeg) no-repeat center;
+    position: relative;
+    background-size: cover;
 }
+
+.container {
+    margin: 20px;
+    width: auto;
+    
+}
+
+
+.nav-bar {
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, .3);
+    list-style-type: none;
+    float: right;
+}
+
+.nav-bar a {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5px 5px;
+    display: inline;
+    float: right;
+    margin-right: 15px;
+    text-align: right;
+}
+
+.active {
+    border-bottom: 1px solid #fff;
+}
+
+.nav-bar a:hover {
+    background-color: #3a3a3a;
+    color: #fff;
+}
+
+
+
+
+
