@@ -17,7 +17,7 @@ body {
 
 /* heading and logo */
 
-#bread-img {
+.bread-img {
     height: 600px;
     width: 100%;
     background: url(/assets/images/Surdeg_1.jpeg) no-repeat center;
@@ -48,7 +48,6 @@ body {
     display: inline;
     float: right;
     text-align: right;
-    text
 }
 
 .active {
@@ -60,12 +59,22 @@ body {
     color: #fff;
 }
 
-/* h1 and h2 */
+.headline {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(241, 234, 234, 0.3);
+}
 
 h1 {
     text-align: center;
-    font-size: 250%;
+    color: #3a3a3a;
+    font-size: xxx-large;
+    text-transform: uppercase;
 }
+
+/* h2 and p */
 
 h2 {
     text-align: center;
@@ -75,8 +84,41 @@ h2 {
 p {
     text-align: center;
     font-size: 140%;
+    height: 40px;
+}
 
+.center-img {
+    background: url(/assets/images/pexels-pixabay-263168.jpg);
+    height: 200px;
 }
 
 
 
+
+/* footer */
+
+footer {
+    height: 100px;
+    width: 100%;
+    margin-top: 20px;
+   
+}
+
+.soc-net {
+    text-align: center;
+}
+
+.soc-net li {
+    display: inline;
+}
+
+.soc-net i {
+    font-size: 160%;
+    margin: 2%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+.soc-net i:hover {
+    color: #fff
+}
