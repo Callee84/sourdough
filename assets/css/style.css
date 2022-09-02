@@ -13,6 +13,7 @@ body {
     font-family: 'oswald', sans-serif;
     font-weight: 300;
     color :#3a3a3a;
+
 }
 
 /* Header and Logo */
@@ -80,6 +81,12 @@ h2 {
     font-size: 190%;
 }
 
+h3 {
+    font-size: x-large;
+    text-align: center;
+    font-weight: 900;
+}
+
 p {
     text-align: center;
     font-size: 140%;
@@ -93,27 +100,44 @@ p {
     margin-bottom: 20px;
 }
 
+/* .header-2 > h1 {
+    text-align: left;
+    margin: 2px;
+}
+
+.header-2 > p {
+    margin-left: 2px;
+    text-align: left;
+} */
+
 .ingredients {
     text-align: center;
     font-size: 140%;
-    height: 40px;
+    margin-bottom: 30px;
+    margin-left: 2px;
+   
 }
-
 
 .recipe {
     text-align: center;
     font-size: 140%;
-    height: 40px;
+    line-height: 2;
+    margin-left: 2xp;
+    
 }
 
+.recipe li {
+    list-style-type: disc;
+}
 
 
 /* footer */
 
-/* footer {
+footer {
     height: 100px;
     width: 100%;
-    margin-top: 30px;   
+    margin-top: 30px;  
+    position: absolute
  
 }
 
@@ -136,4 +160,4 @@ p {
 
 .soc-net i:hover {
     color: #fff
-} */
+}
