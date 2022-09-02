@@ -161,3 +161,18 @@ footer {
 .soc-net i:hover {
     color: #fff
 }
+
+/* media queries */
+
+/* for larger screens size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+    .nav-bar {
+       
+        float: left;
+        margin-bottom: 20px;
+        line-height: 25px;
+        text-align: left;
+    } 
+    
+}
