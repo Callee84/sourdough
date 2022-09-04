@@ -93,10 +93,14 @@ p {
     height: 40px;
 }
 
+.mid-sec-ind {
+    height: 400px;
+}
+
 .center-img {
     height: 300px;
     background: url(/assets/images/surdeg_4.jpg) no-repeat center;
-    margin-top: 50px;
+    margin-top: 200px;
     margin-bottom: 20px;
 }
 
@@ -168,11 +172,31 @@ footer {
 
 @media screen and (max-width: 1200px) {
     .nav-bar {
-       
         float: left;
         margin-bottom: 20px;
         line-height: 25px;
         text-align: left;
+        display: inline;    
+       
     } 
     
+    .ingredients {
+        margin-top: 40px;
+    }
+    
+}
+
+/* for medium screens size from 950 and smaller */
+
+@media screen and (max-width: 950px;) {
+
+}
+
+    
+
+
+@media screen and (max-width: 800px) {
+    .center-img {
+        margin-top: 200px;
+    }
 }
