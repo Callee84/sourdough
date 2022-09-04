@@ -207,6 +207,16 @@ footer {
     }
 }
 
+@media screen and (max-width: 710px) {
+    .center-img {
+        margin-bottom: 40px;
+        margin-top: -70xp;
+    }   
+    .mid-sec-ind {
+        margin-bottom: 100px;
+    }
+}
+
 @media screen and (max-width: 550px) {
     .ingredients {
         margin-top: 80px;
