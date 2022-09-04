@@ -78,7 +78,7 @@ h1 {
 
 h2 {
     text-align: center;
-    font-size: 190%;
+    font-size: xxx-large;
 }
 
 h3 {
@@ -120,7 +120,7 @@ p {
     text-align: center;
     font-size: 140%;
     margin-bottom: 30px;
-    margin-left: 2px;
+    margin-top: 30px;
    
 }
 
@@ -203,6 +203,12 @@ footer {
     }
 
     .ingredients {
-        margin-top: 40px;
+        margin-top: 60px;
     }
+}
+
+@media screen and (max-width: 550px) {
+    .ingredients {
+        margin-top: 80px;
+    }   
 }
