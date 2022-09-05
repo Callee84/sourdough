@@ -105,8 +105,8 @@ p {
 }
 
 .center-img {
-    height: 300px;
-    background: url('../images/surdeg-middle.jpg') no-repeat center;
+    height: 400px;
+    background: url('../images/surdeg-recipe.jpeg') no-repeat center;
     margin-top: 100px;
     margin-bottom: 20px;
 }
@@ -224,6 +224,7 @@ footer {
 @media screen and (max-width: 800px) {
     .center-img {
         margin-top: 150px;
+        background: url('../images/surdeg-small.jpeg') no-repeat center;
     }
 
     .ingredients {
@@ -284,9 +285,10 @@ footer {
     }
 
     .center-img {
-        margin-top: 270px;
+        margin-top: 300px;
+        background: url('../images/surdeg-small-mobile.jpg') no-repeat center
     }
-
+  
     .starter {
         line-height: 40px;
     }
@@ -323,21 +325,17 @@ footer {
     }
 
     #love {
-        margin-top: -30px;
+        margin-top: -50px;
         margin-bottom: 20px;
     }
-    
-    /* .top-sec-ind {
-        margin-bottom: 50px;
-    } */
      
     .mid-sec-ind {
-        margin-bottom: 300px;
+        margin-bottom: 400px;
     }
 
     .center-img {
         margin-bottom: 50px;
-        margin-top: 300px;
+        margin-top: 400px;
     }  
 
     .starter {
@@ -347,7 +345,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 375px){
     .nav-bar a {
         text-transform: uppercase;
         color: #fff;
@@ -360,12 +358,12 @@ footer {
     }
 
    .mid-sec-ind {
-       margin-bottom: 450px;
+       margin-bottom: 300px;
    }
 
    .center-img {
        margin-bottom: 50px;
-       margin-top: 500px;
+       margin-top: 450px;
    }  
 
 
@@ -392,7 +390,7 @@ footer {
 
    .center-img {
        margin-bottom: 50px;
-       margin-top: 500px;
+       margin-top: 530px;
    }  
 
 
