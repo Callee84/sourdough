@@ -91,7 +91,7 @@ h3 {
 p {
     text-align: center;
     font-size: 140%;
-    height: 40px;
+    /* height: 40px; */
 }
 
 /* .top-sec-ind {
@@ -139,6 +139,19 @@ p {
 
 .recipe li {
     list-style-type: disc;
+}
+
+.starter {
+    /* margin: 2px;
+    padding: 2px; */
+    line-height: 40px;
+}
+
+.sourdough-start {
+    text-align: center;
+    font-size: 140%;
+    line-height: 2;
+    margin-bottom: -50px;
 }
 
 
@@ -199,8 +212,10 @@ footer {
 
 /* for medium screens size from 950 and smaller */
 
-@media screen and (max-width: 950px) {
-
+@media screen and (max-width: 850px) {
+ .starter {
+    line-height: 30px;
+ }
 }
 
     
@@ -213,6 +228,10 @@ footer {
 
     .ingredients {
         margin-top: 60px;
+    }
+
+    .sourdough-start {
+        margin-bottom: 30px;
     }
 }
 
@@ -238,6 +257,9 @@ footer {
         margin-top: -90xp;
     }   
    
+    .sourdough-start{
+        margin-bottom: 50px;
+    }
 }
 
 @media screen and (max-width: 550px) {
@@ -264,6 +286,28 @@ footer {
     .center-img {
         margin-top: 270px;
     }
+
+    .starter {
+        line-height: 40px;
+    }
+
+    .sourdough-start {
+        line-height: 50px;
+        margin-bottom: 130px;
+    }
+       
+}
+
+@media screen and (max-width: 550px) {
+    .starter {
+        margin: 0;
+        line-height: 40px;
+    }
+    
+    .sourdough-start {
+        margin-top: 30px;
+        line-height: 50px;
+    }
 }
 
 @media screen and (max-width: 425px){
@@ -277,19 +321,30 @@ footer {
         float: right;
         text-align: right;
     }
+
+    #love {
+        margin-top: -30px;
+        margin-bottom: 20px;
+    }
     
     /* .top-sec-ind {
         margin-bottom: 50px;
     } */
      
     .mid-sec-ind {
-        margin-bottom: 400px;
+        margin-bottom: 300px;
     }
 
     .center-img {
         margin-bottom: 50px;
-        margin-top: 400px;
+        margin-top: 300px;
     }  
+
+    .starter {
+        margin: 0;
+        width: auto;
+        line-height: 50px;
+    }
 }
 
 @media screen and (max-width: 360px){
