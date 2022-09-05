@@ -21,7 +21,7 @@ body {
 #bread-img {
     height: 600px;
     width: 100%;
-    background: url('assets/images/surdeg_start.jpeg') no-repeat center;
+    background: url('assets/images/surdeg-start.jpeg') no-repeat center;
     position: relative;
     background-size: cover;
 }
