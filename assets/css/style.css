@@ -24,6 +24,7 @@ body {
     background: url('../images/surdeg-start.jpeg') no-repeat center;
     position: relative;
     background-size: cover;
+    margin-bottom: 10px;
 }
 
 .nav-bar {
@@ -92,6 +93,10 @@ p {
     font-size: 140%;
     height: 40px;
 }
+
+/* .top-sec-ind {
+
+} */
 
 .mid-sec-ind {
    line-height: 50px;
@@ -172,7 +177,7 @@ footer {
 
 /* for larger screens size from 1200px wide and down */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1150px) {
     .nav-bar {
         float: left;
         margin-bottom: 20px;
@@ -181,6 +186,11 @@ footer {
         display: inline;    
        
     } 
+
+    .mid-sec-ind {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
     
     .ingredients {
         margin-top: 40px;
@@ -199,7 +209,7 @@ footer {
 
 @media screen and (max-width: 800px) {
     .center-img {
-        margin-top: 200px;
+        margin-top: 150px;
     }
 
     .ingredients {
@@ -208,17 +218,67 @@ footer {
 }
 
 @media screen and (max-width: 710px) {
+    .mid-sec-ind {
+        margin-bottom: 200px;
+    }
+    
     .center-img {
         margin-bottom: 40px;
-        margin-top: -70xp;
+        margin-top: -80xp;
     }   
+   
+}
+
+@media screen and (max-width: 650px) {
     .mid-sec-ind {
-        margin-bottom: 100px;
+        margin-bottom: 250px;
     }
+    
+    .center-img {
+        margin-bottom: 50px;
+        margin-top: -90xp;
+    }   
+   
 }
 
 @media screen and (max-width: 550px) {
     .ingredients {
         margin-top: 80px;
     }   
+
+    .mid-sec-ind {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .center-img {
+        margin-top: 270px;
+    }
+}
+
+@media screen and (max-width: 425px){
+     /* .top-sec-ind {
+        margin-bottom: 50px;
+    } */
+     
+    .mid-sec-ind {
+        margin-bottom: 400px;
+    }
+
+    .center-img {
+        margin-bottom: 50px;
+        margin-top: 400px;
+    }  
+}
+
+@media screen and (max-width: 360px){
+  
+   .mid-sec-ind {
+       margin-bottom: 450px;
+   }
+
+   .center-img {
+       margin-bottom: 50px;
+       margin-top: 500px;
+   }  
 }
