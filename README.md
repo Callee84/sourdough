@@ -52,4 +52,12 @@ Contact side consists of a form divided in to three textfield. The three field i
 ***
 
 ## Testing
-I've conducted 4 tests of the site. Two of the with focus on performance in webbrowser.
+I've conducted 4 tests of the site. Two of the with focus on performance in webbrowser. 
+The Lighthouse test using Goole Dev Tools scores the site with top gades exept for the performance with is in the low 90:s. The performance scores is draged down because of the big header image. 
+
+![Sceenshot of testscore with Google dev tools](../surdegen/assets/images-readme/performance-lighthouse-sourdough.jpeg)
+
+However I've also tested the sites performance using GT-metrix and got the score of 94. I feel this is within the margin of error and keep the picture in this size.
+
+![Sceenshot of testscore using gt-metrix](../surdegen/assets/images-readme/performance-gtmetrix-sourdough.jpeg)
+
