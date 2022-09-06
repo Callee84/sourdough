@@ -16,7 +16,7 @@ The site, in all its simplicity, is designed as a simple (maybe not bakingwise) 
 ## Features and UX
 I've choosen a website with simple features so the visitor easily can navigate throghtout the site. The purpose of the site is the content and therefore a pretty plain site.
 
-Starting with the sticky navigation bar at the top that follows the visitor down through the page for quick and easy navigation through the website. The navigation bar also has a hover function which highlights the current position. This hover-funnction also appears on the contact form and in the footer on the social media links.
+Starting with the sticky navigation bar at the top that follows the visitor down through the page for quick and easy navigation through the website. The navigation bar also has a hover function which highlights the current position. This hover-function also appears on the contact form and in the footer on the social media links.
 
 On the contact site I've put in a contact form in case any visitor need some help. Clicking the submit-button takes the visitor to a confirmationpage named "thanks.html".
 
