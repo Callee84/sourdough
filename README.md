@@ -1,7 +1,7 @@
 # Project 1 - Sourdough Bread - HTML & CSS Portfolio.
 
 So for my first project I choosed to work with subject quite close to heart - bread or more exactly sourdough bread.
-The site, in all its simplicity, is designed as a simple (maybe not bakingwise) "getting started"- site with sourdough beaking. 
+The site, in all its simplicity, is designed as a simple (maybe not bakingwise) "getting started"- site with sourdough baking. 
 
 
 ![Multi Device Demo](assets/images-readme/sourdough-mockup.png)
@@ -26,11 +26,11 @@ The footer contians links to varius social media.
 
 ## Site Structure
 The site contains of five pages - index (loadingpage), recipe, sourdough, contact and a form response page called thanks.
-Consistent though tha pages are the image in the header but with a different heading on all pages.
+Consistent thoughout the pages are the image in the header but with a different on-image-text on all pages.
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
 ##### The landing page (index)
-Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. A link in the text to the reicpe aswell as the sticky navigation.
+Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. A link in the text to the reicpe aswell as the sticky navigation bar.
 
 ![Screenshot of homepage (index)](assets/images-readme/screen-index.png)
 
@@ -45,7 +45,7 @@ This side is also made up by a list in 3 steps and describes how to make a sourd
 ![Screenshot of sourdough page](/assets/images-readme/screen-sourdough.png)
 
 ##### Contact
-Contact side consists of a form divided in to three textfield. The three field is required that the vistor at least fill in thier email and the questionform.
+Contact side consists of a form divided in to three textfields. The email and the quesiton-input is required to fill in to be able hit the submit-button.
 
 ![Screenshot of contact page](/assets/images-readme/screen-contact.png)
 
@@ -57,8 +57,8 @@ When the submit button is trigged it sends the visitor to a confirmation page co
 ***
 
 ## Testing
-I've conducted 4 tests of the site. Two of the with focus on performance in webbrowser. 
-The Lighthouse test using Goole Dev Tools scores the site with top gades exept for the performance with is in the low 90:s. The performance scores is draged down because of the big header image. 
+I've conducted 4 tests of the site. Two of the with focus on performance. 
+The Lighthouse test using Goole Dev Tools scores the site with top grades exept for the performance with is in the low 90:s. The performance scores is draged down because of the big header image. 
 
 ![Sceenshot of testscore with Google dev tools](/assets/images-readme/performance-lighthouse-sourdough.jpeg)
 
