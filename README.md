@@ -4,7 +4,7 @@ So for my first project I choosed to work with subject quite close to heart - br
 The site, in all its simplicity, is designed as a simple (maybe not bakingwise) "getting started"- site with sourdough beaking. 
 
 
-![Multi Device Demo](../surdegen/assets/images-readme/sourdough-mockup.png)
+![Multi Device Demo](assets/images-readme/sourdough-mockup.png)
 
 ***
 
@@ -32,22 +32,22 @@ As I described at the start the website has a very clean structure. As this is m
 ##### The landing page (index)
 Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. A link in the text to the reicpe aswell as the sticky navigation.
 
-![Screenshot of homepage (index)](../surdegen/assets/images-readme/screen-index.png)
+![Screenshot of homepage (index)](assets/images-readme/screen-index.png)
 
 ##### Recipe
 The recipe side is a made up by a 9 step list that is numbered. Above that list is another unordered list containing the ingridients. 
 
-![Screenshot of Recipe page](../surdegen/assets/images-readme/screen-recipe.png)
+![Screenshot of Recipe page](/assets/images-readme/screen-recipe.png)
 
 ##### Sourdough 
 This side is also made up by a list in 3 steps and describes how to make a sourdough starter. 
 
-![Screenshot of sourdough page](../surdegen/assets/images-readme/screen-sourdough.png)
+![Screenshot of sourdough page](surdegen/assets/images-readme/screen-sourdough.png)
 
 ##### Contact
 Contact side consists of a form divided in to three textfield. The three field is required that the vistor at least fill in thier email and the questionform.
 
-![Screenshot of contact page](../surdegen/assets/images-readme/screen-contact.png)
+![Screenshot of contact page](surdegen/assets/images-readme/screen-contact.png)
 
 ***
 
@@ -55,9 +55,12 @@ Contact side consists of a form divided in to three textfield. The three field i
 I've conducted 4 tests of the site. Two of the with focus on performance in webbrowser. 
 The Lighthouse test using Goole Dev Tools scores the site with top gades exept for the performance with is in the low 90:s. The performance scores is draged down because of the big header image. 
 
-![Sceenshot of testscore with Google dev tools](../surdegen/assets/images-readme/performance-lighthouse-sourdough.jpeg)
+![Sceenshot of testscore with Google dev tools](/assets/images-readme/performance-lighthouse-sourdough.jpeg)
 
 However I've also tested the sites performance using GT-metrix and got the score of 94. I feel this is within the margin of error and keep the picture in this size.
 
-![Sceenshot of testscore using gt-metrix](../surdegen/assets/images-readme/performance-gtmetrix-sourdough.jpeg)
+![Sceenshot of testscore using gt-metrix](/assets/images-readme/performance-gtmetrix-sourdough.jpeg)
 
+I've also tested the site using the w3c html checker with no reported warnings.
+
+![Screenshot of testscore using w3c validator](/assets/images-readme/screen-w3c.png)
