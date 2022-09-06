@@ -83,13 +83,15 @@ This site was build using GitPod and deployd via GitHub.
 
 ### Content
 Issues with css bugfixes were found searching [w3schools](https://www.w3schools.com/) and by revisit older lessons with the Code Institute Full Stack Deveploper program.
+Inspiration to hover function came from the [Love Running Essential Project](https://callee84.github.io/love-running/)
 Inspiration for Readme file came from [Code Institute Love Running repository](https://github.com/Code-Institute-Solutions/readme-template). 
+
 
 ### Media
 Images used on site comes from the site [Pexels](https://www.pexels.com/) and is free to use.
 
 ### Special thanks
-To my mentor Harry Dhillon for exeptional help and tutoring.
+To my mentor Harry Dhillon for exeptional help and guidance.
 
 ***
 
