@@ -52,4 +52,4 @@ Contact side consists of a form divided in to three textfield. The three field i
 ***
 
 ## Testing
-I've conducted 4 seperate tests of the site. 
+I've conducted 4 tests of the site. Two of the with focus on performance in webbrowser.
