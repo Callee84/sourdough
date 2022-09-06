@@ -32,22 +32,24 @@ As I described at the start the website has a very clean structure. As this is m
 ##### The landing page (index)
 Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. A link in the text to the reicpe aswell as the sticky navigation.
 
-![Homepage](../surdegen/assets/images-readme/screen-index.png)
+![Screenshot of homepage (index)](../surdegen/assets/images-readme/screen-index.png)
 
 ##### Recipe
 The recipe side is a made up by a 9 step list that is numbered. Above that list is another unordered list containing the ingridients. 
 
-![Recipe](../surdegen/assets/images-readme/screen-recipe.png)
+![Screenshot of Recipe page](../surdegen/assets/images-readme/screen-recipe.png)
 
 ##### Sourdough 
 This side is also made up by a list in 3 steps and describes how to make a sourdough starter. 
 
-![Sourdough](../surdegen/assets/images-readme/screen-sourdough.png)
+![Screenshot of sourdough page](../surdegen/assets/images-readme/screen-sourdough.png)
 
 ##### Contact
 Contact side consists of a form divided in to three textfield. The three field is required that the vistor at least fill in thier email and the questionform.
 
-![Contact](../surdegen/assets/images-readme/screen-contact.png)
+![Screenshot of contact page](../surdegen/assets/images-readme/screen-contact.png)
+
 ***
 
-
+## Testing
+I've conducted 4 seperate tests of the site. 
