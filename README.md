@@ -42,12 +42,12 @@ The recipe side is a made up by a 9 step list that is numbered. Above that list 
 ##### Sourdough 
 This side is also made up by a list in 3 steps and describes how to make a sourdough starter. 
 
-![Screenshot of sourdough page](surdegen/assets/images-readme/screen-sourdough.png)
+![Screenshot of sourdough page](/assets/images-readme/screen-sourdough.png)
 
 ##### Contact
 Contact side consists of a form divided in to three textfield. The three field is required that the vistor at least fill in thier email and the questionform.
 
-![Screenshot of contact page](surdegen/assets/images-readme/screen-contact.png)
+![Screenshot of contact page](/assets/images-readme/screen-contact.png)
 
 ***
 

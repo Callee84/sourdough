@@ -301,6 +301,17 @@ footer {
 }
 
 @media screen and (max-width: 650px) {
+    .nav-bar a {
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 30px;
+        text-decoration: none;
+        padding: 8px;
+        display: inline;
+        float: right;
+        text-align: right;
+    }
+    
     .mid-sec-ind {
         margin-bottom: 250px;
     }
@@ -366,13 +377,13 @@ footer {
 
 /* small screen size - mobile device */ 
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 455px){
     .nav-bar a {
         text-transform: uppercase;
         color: #fff;
-        font-size: 25px;
+        font-size: 20px;
         text-decoration: none;
-        padding: 10px;
+        padding: 8px;
         display: inline;
         float: right;
         text-align: right;
