@@ -50,7 +50,7 @@ body {
 }
 
 .nav-bar a:hover {
-    background-color: #3a3a3a;
+    background-color: #e49a65;
     color: #fff;
 }
 
@@ -155,17 +155,57 @@ p {
 }
 
 .questions {
+    margin: auto;
+    margin-top: 40px;
     border: #3a3a3a 2px solid;
     width: 400px;
-    height: 600px;
+    height: 400px;
     text-align: center; 
-    float: center;
+    
 }
 
 .question-form {
     display: block;
+    text-align: center; 
     /* float: center; */
+}
 
+.name-email {
+    width: 90%;
+    height: 25px;
+    border: #3a3a3a 1px solid;
+    margin: 5px;
+    text-align: center;
+}
+
+.name-email:hover {
+    border: #e49a65 5px dotted;
+}
+
+.your-question {
+    width: 90%;
+    height: 200px;
+    border: #3a3a3a 1px solid;
+    margin: 5px;
+    text-align: center;
+}
+
+.your-question:hover {
+    border: #e49a65 5px dotted;
+}
+
+#send {
+    margin: 5px;
+    padding: 4px;
+    border: #3a3a3a 1px solid;
+    background-color: #fff;
+    color: #e49a65;
+}
+
+#send:hover {
+    background-color: #e49a65;
+    color: #fff;
+    border: #e49a65 5px solid;
 }
 
 /* footer */
@@ -196,7 +236,7 @@ footer {
 }
 
 .soc-net i:hover {
-    color: #fff
+    color: #e49a65;
 }
 
 /* media queries */
