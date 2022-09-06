@@ -132,7 +132,7 @@ p {
 .recipe {
     text-align: center;
     font-size: 140%;
-    line-height: 2px;
+    /* line-height: 2px; */
 }
 
 .recipe li {
