@@ -86,6 +86,8 @@ Images used on site comes from the site [Pexels](https://www.pexels.com/) and is
 ### Special thanks
 To my mentor Harry Dhillon for exeptional help and tutoring.
 
+***
+
 Carl Holm,
 Kalmar, Sweden 
 2022

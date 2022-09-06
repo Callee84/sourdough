@@ -208,6 +208,19 @@ p {
     border: #e49a65 5px solid;
 }
 
+.thanks {
+    margin: auto;
+    border: #e49a65 2px solid;
+    height: 250px;
+    width: 40%;
+}
+
+#meanwhile {
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+}
+
 /* footer */
 
 footer {
@@ -264,13 +277,26 @@ footer {
 
 /* for medium screens size from 950 and smaller */
 
+@media screen and (max-width: 920px) {
+    .thanks {
+        margin: auto;
+        border: #e49a65 2px solid;
+        height: 400px;
+        width: 40%;
+}
+
 @media screen and (max-width: 850px) {
  .starter {
     line-height: 30px;
  }
 }
 
-    
+.thanks {
+    margin: auto;
+    border: #e49a65 2px solid;
+    height: 400px;
+    width: 40%;
+}
 
 
 @media screen and (max-width: 800px) {
@@ -326,7 +352,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 555px) {
     .nav-bar a {
         text-transform: uppercase;
         color: #fff;
@@ -359,6 +385,13 @@ footer {
     .sourdough-start {
         line-height: 50px;
         margin-bottom: 130px;
+    }
+
+    .thanks {
+        margin: auto;
+        border: #e49a65 2px solid;
+        height: 500px;
+        width: 40%;
     }
        
 }
@@ -408,6 +441,14 @@ footer {
         width: auto;
         line-height: 50px;
     }
+
+    .thanks {
+        margin: auto;
+        border: #e49a65 2px solid;
+        height: 530px;
+        width: 40%;
+    }
+       
 }
 
 @media screen and (max-width: 375px){
@@ -435,6 +476,14 @@ footer {
    .ingredients {
     margin-top: 120px;
 }
+
+.thanks {
+    margin: auto;
+    border: #e49a65 2px solid;
+    height: 650px;
+    width: 40%;
+}
+
 }
 
 @media screen and (max-width: 330px){
@@ -462,4 +511,13 @@ footer {
    .ingredients {
     margin-top: 120px;
 }
+
+.thanks {
+    margin: auto;
+    border: #e49a65 2px solid;
+    height: 700px;
+    width: 40%;
+}
+   
+
 }
