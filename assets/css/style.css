@@ -154,6 +154,19 @@ p {
     margin-bottom: -50px;
 }
 
+.questions {
+    border: #3a3a3a 2px solid;
+    width: 400px;
+    height: 600px;
+    text-align: center; 
+    float: center;
+}
+
+.question-form {
+    display: block;
+    /* float: center; */
+
+}
 
 /* footer */
 
