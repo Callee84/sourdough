@@ -16,16 +16,16 @@ The site, in all its simplicity, is designed as a simple (maybe not bakingwise) 
 ## Features and UX
 I've choosen a website with simple features so the visitor easily can navigate throghtout the site. The purpose of the site is the content and therefore a pretty plain site.
 
-Starting with the sticky navigation bar at the top that follows the visitor down through the page for quick and easy navigation through the website. 
+Starting with the sticky navigation bar at the top that follows the visitor down through the page for quick and easy navigation through the website. The navigation bar also has a hover function which highlights the current position. This hover-funnction also appears on the contact form and in the footer on the social media links.
 
-On the contact site I've put in a contact form in case any visitor need some help. Just now the submit-button takes the visitor to the start page which is index.html. 
+On the contact site I've put in a contact form in case any visitor need some help. Clicking the submit-button takes the visitor to a confirmationpage named "thanks.html".
 
 The footer contians links to varius social media. 
 
 ***
 
 ## Site Structure
-The site contains four pages - index (loadingpage), recipe, sourdough and contact.
+The site contains of five pages - index (loadingpage), recipe, sourdough, contact and a form response page called thanks.
 Consistent though tha pages are the image in the header but with a different heading on all pages.
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
@@ -48,6 +48,11 @@ This side is also made up by a list in 3 steps and describes how to make a sourd
 Contact side consists of a form divided in to three textfield. The three field is required that the vistor at least fill in thier email and the questionform.
 
 ![Screenshot of contact page](/assets/images-readme/screen-contact.png)
+
+#### Thanks
+When the submit button is trigged it sends the visitor to a confirmation page containing a simple message that the form has been sent and an answer is to be expected.
+
+![Screenshot of form respons page](/assets/images-readme/screen-thanks.png)
 
 ***
 
