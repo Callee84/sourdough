@@ -57,10 +57,35 @@ The Lighthouse test using Goole Dev Tools scores the site with top gades exept f
 
 ![Sceenshot of testscore with Google dev tools](/assets/images-readme/performance-lighthouse-sourdough.jpeg)
 
-However I've also tested the sites performance using GT-metrix and got the score of 94. I feel this is within the margin of error and keep the picture in this size.
+However I've also tested the sites performance using GT-metrix and got the score of 100 and 94 for structure. I feel this is within the margin of error and keep the picture in this size.
 
 ![Sceenshot of testscore using gt-metrix](/assets/images-readme/performance-gtmetrix-sourdough.jpeg)
 
-I've also tested the site using the w3c html checker with no reported warnings.
+I've also tested the site using the w3c html checker and jigsaw css tetser with no reported warnings.
 
 ![Screenshot of testscore using w3c validator](/assets/images-readme/screen-w3c.png)
+
+![Screenshot of testscore using w3c jigsaw css validator](/assets/images-readme/w3c-css.png)
+
+***
+
+## Deployment
+This site was build using GitPod and deployd via GitHub.
+
+***
+
+## Credit
+
+### Content
+Issues with css bugfixes were found searching [w3schools](https://www.w3schools.com/) and by revisit older lessons with the Code Institute Full Stack Deveploper program.
+Inspiration for Readme file came from [Code Institute Love Running repository](https://github.com/Code-Institute-Solutions/readme-template). 
+
+### Media
+Images used on site comes from the site [Pexels](https://www.pexels.com/) and is free to use.
+
+### Special thanks
+To my mentor Harry Dhillon for exeptional help and tutoring.
+
+Carl Holm,
+Kalmar, Sweden 
+2022
