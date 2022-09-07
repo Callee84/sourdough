@@ -23,6 +23,8 @@ I've choosen a website with simple features so the visitor easily can navigate t
 
 Starting with the sticky navigation bar at the top that follows the visitor down through the page for quick and easy navigation through the website. The navigation bar also has a hover function which highlights the current position. This hover-function also appears on the contact form and in the footer on the social media links.
 
+On the loadingpage I have added a zoom out effect on the center image. 
+
 On the contact site I've put in a contact form in case any visitor need some help. Clicking the submit-button takes the visitor to a confirmationpage named "thanks.html".
 
 The footer contians links to varius social media. 
@@ -90,6 +92,7 @@ This site was build using GitPod and deployd via GitHub.
 * Issues with css bugfixes were found searching [w3schools](https://www.w3schools.com/) and by revisit older lessons with the Code Institute Full Stack Deveploper program.
 * Inspiration to hover function came from the [Love Running Essential Project](https://callee84.github.io/love-running/)
 * Inspiration for Readme file came from [Code Institute Love Running repository](https://github.com/Code-Institute-Solutions/readme-template). 
+* Inspiration for zoom out effect came from the [Love Running Essential Project](https://callee84.github.io/love-running/)
 
 
 ### Media
