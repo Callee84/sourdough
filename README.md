@@ -1,8 +1,13 @@
 # Project 1 - Sourdough Bread - HTML & CSS Portfolio.
 
-So for my first project I choosed to work with subject quite close to heart - bread or more exactly sourdough bread.
+## Purpose & background
+
+* The purpose of this first project is to show my understanding and competence regarding webdesign using the languages of HTML and CSS. 
+
+* So for my first project I choosed to work with subject quite close to heart - bread or more exactly sourdough bread.
 The site, in all its simplicity, is designed as a simple (maybe not bakingwise) "getting started"- site with sourdough baking. 
 
+***
 
 ![Multi Device Demo](assets/images-readme/sourdough-mockup.png)
 
@@ -29,27 +34,27 @@ The site contains of five pages - index (loadingpage), recipe, sourdough, contac
 Consistent thoughout the pages are the image in the header but with a different on-image-text on all pages.
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
-##### The landing page (index)
+### *The landing page (index)*
 Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. A link in the text to the reicpe aswell as the sticky navigation bar.
 
 ![Screenshot of homepage (index)](assets/images-readme/screen-index.png)
 
-##### Recipe
+### *Recipe*
 The recipe side is a made up by a 9 step list that is numbered. Above that list is another unordered list containing the ingridients. 
 
 ![Screenshot of Recipe page](/assets/images-readme/screen-recipe.png)
 
-##### Sourdough 
+### *Sourdough*
 This side is also made up by a list in 3 steps and describes how to make a sourdough starter. 
 
 ![Screenshot of sourdough page](/assets/images-readme/screen-sourdough.png)
 
-##### Contact
+### *Contact*
 Contact side consists of a form divided in to three textfields. The email and the quesiton-input is required to fill in to be able hit the submit-button.
 
 ![Screenshot of contact page](/assets/images-readme/screen-contact.png)
 
-#### Thanks
+### *Thanks*
 When the submit button is trigged it sends the visitor to a confirmation page containing a simple message that the form has been sent and an answer is to be expected.
 
 ![Screenshot of form respons page](/assets/images-readme/screen-thanks.png)
@@ -82,16 +87,16 @@ This site was build using GitPod and deployd via GitHub.
 ## Credit
 
 ### Content
-Issues with css bugfixes were found searching [w3schools](https://www.w3schools.com/) and by revisit older lessons with the Code Institute Full Stack Deveploper program.
-Inspiration to hover function came from the [Love Running Essential Project](https://callee84.github.io/love-running/)
-Inspiration for Readme file came from [Code Institute Love Running repository](https://github.com/Code-Institute-Solutions/readme-template). 
+* Issues with css bugfixes were found searching [w3schools](https://www.w3schools.com/) and by revisit older lessons with the Code Institute Full Stack Deveploper program.
+* Inspiration to hover function came from the [Love Running Essential Project](https://callee84.github.io/love-running/)
+* Inspiration for Readme file came from [Code Institute Love Running repository](https://github.com/Code-Institute-Solutions/readme-template). 
 
 
 ### Media
-Images used on site comes from the site [Pexels](https://www.pexels.com/) and is free to use.
+* Images used on site comes from the site [Pexels](https://www.pexels.com/) and is free to use.
 
 ### Special thanks
-To my mentor Harry Dhillon for exeptional help and guidance.
+* To my mentor Harry Dhillon for exeptional help and guidance.
 
 ***
 
