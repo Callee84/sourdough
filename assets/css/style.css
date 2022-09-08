@@ -101,13 +101,22 @@ p {
 
 }
 
+.mid-sec-ind a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.mid-sec-ind a:hover {
+    color: #e49a65;
+}
+
 .center-img {
     height: 400px;
     background: url('../images/surdeg-recipe.jpeg') no-repeat center;
     margin-top: 100px;
     margin-bottom: 20px;
 
-/* Zoom out-effect */
+/* Zoom out-effect on center image */
 
     animation-name: center-img-zoomout;
     animation-duration: 5s;
@@ -229,6 +238,24 @@ p {
     margin: 10px;
     text-align: center;
     font-size: large;
+}
+
+#back-to-home {
+    text-align: center;
+    font-size: large;
+    padding: 8%;
+}
+
+#back-to-home a {
+    border: #e49a65 1px solid;
+    text-decoration: none;
+    color: inherit;
+    padding: 1.5%;
+}
+
+#back-to-home a:hover {
+    color: #fff;
+    background-color: #e49a65;
 }
 
 /* footer */
