@@ -228,7 +228,7 @@ p {
 .thanks {
     margin: auto;
     border: #e49a65 2px solid;
-    height: 250px;
+    height: 300px;
     width: 40%;
 }
 
@@ -341,6 +341,13 @@ footer {
         /* margin-top: -80xp; */
     }   
    
+    .thanks {
+        margin: auto;
+        border: #e49a65 2px solid;
+        height: 450px;
+        width: 40%;
+    }
+
 }
 
 @media screen and (max-width: 650px) {
@@ -407,7 +414,7 @@ footer {
     .thanks {
         margin: auto;
         border: #e49a65 2px solid;
-        height: 500px;
+        height: 550px;
         width: 40%;
     }
        
@@ -422,6 +429,13 @@ footer {
     .sourdough-start {
         margin-top: 30px;
         line-height: 50px;
+    }
+
+    .thanks {
+        margin: auto;
+        border: #e49a65 2px solid;
+        height: 600px;
+        width: 40%;
     }
 }
 
@@ -462,7 +476,7 @@ footer {
     .thanks {
         margin: auto;
         border: #e49a65 2px solid;
-        height: 530px;
+        height: 650px;
         width: 40%;
     }
        
@@ -497,7 +511,7 @@ footer {
 .thanks {
     margin: auto;
     border: #e49a65 2px solid;
-    height: 650px;
+    height: 700px;
     width: 40%;
 }
 
@@ -533,7 +547,7 @@ footer {
 .thanks {
     margin: auto;
     border: #e49a65 2px solid;
-    height: 700px;
+    height: 850px;
     width: 40%;
 }
 }

@@ -75,7 +75,9 @@ However I've also tested the sites performance using GT-metrix and got the score
 
 I've also tested the site using the w3c html checker and jigsaw css tetser with no reported warnings.
 
-![Screenshot of testscore using w3c validator](/assets/images-readme/screen-w3c.png)
+![Screenshot of index testscore using w3c validator](/assets/images-readme/screen-w3c.png)
+
+
 
 ![Screenshot of testscore using w3c jigsaw css validator](/assets/images-readme/w3c-css.png)
 
