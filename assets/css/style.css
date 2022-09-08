@@ -91,7 +91,6 @@ h3 {
 p {
     text-align: center;
     font-size: 140%;
-    /* height: 40px; */
 }
 
 /* index.html */
@@ -123,15 +122,6 @@ p {
         transform: scale(0.8);
     }
 }
-/* .header-2 > h1 {
-    text-align: left;
-    margin: 2px;
-}
-
-.header-2 > p {
-    margin-left: 2px;
-    text-align: left;
-} */
 
 /* recipe.html */
 
@@ -140,13 +130,11 @@ p {
     font-size: 140%;
     margin-bottom: 30px;
     margin-top: 30px;
-   
 }
 
 .recipe {
     text-align: center;
     font-size: 140%;
-    /* line-height: 2px; */
 }
 
 .recipe li {
@@ -182,7 +170,6 @@ p {
 .question-form {
     display: block;
     text-align: center; 
-    /* float: center; */
 }
 
 .name-email {
@@ -348,7 +335,6 @@ footer {
     
     .center-img {
         margin-bottom: 40px;
-        /* margin-top: -80xp; */
     }   
    
     .thanks {
@@ -378,7 +364,6 @@ footer {
     
     .center-img {
         margin-bottom: 50px;
-        /* margin-top: -90xp; */
     }   
    
     .sourdough-start{
