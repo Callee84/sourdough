@@ -173,7 +173,7 @@ p {
     margin: auto;
     margin-top: 40px;
     border: #3a3a3a 2px solid;
-    width: 400px;
+    width: 50%;
     height: 400px;
     text-align: center; 
     
@@ -299,7 +299,7 @@ footer {
         margin: auto;
         border: #e49a65 2px solid;
         height: 400px;
-        width: 40%;
+        width: 60%;
 }
 
 @media screen and (max-width: 850px) {
@@ -308,11 +308,21 @@ footer {
  }
 }
 
+.questions {
+    margin: auto;
+    margin-top: 40px;
+    border: #3a3a3a 2px solid;
+    width: 60%;
+    height: 400px;
+    text-align: center; 
+    
+}
+
 .thanks {
     margin: auto;
     border: #e49a65 2px solid;
     height: 400px;
-    width: 40%;
+    width: 60%;
 }
 
 
@@ -374,6 +384,16 @@ footer {
     .sourdough-start{
         margin-bottom: 50px;
     }
+
+    .questions {
+        margin: auto;
+        margin-top: 40px;
+        border: #3a3a3a 2px solid;
+        width: 60%;
+        height: 400px;
+        text-align: center; 
+        
+    }
 }
 
 @media screen and (max-width: 555px) {
@@ -409,6 +429,16 @@ footer {
     .sourdough-start {
         line-height: 50px;
         margin-bottom: 130px;
+    }
+
+    .questions {
+        margin: auto;
+        margin-top: 40px;
+        border: #3a3a3a 2px solid;
+        width: 70%;
+        height: 400px;
+        text-align: center; 
+        
     }
 
     .thanks {
