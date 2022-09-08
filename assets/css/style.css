@@ -178,8 +178,8 @@ p {
 
 iframe {
     padding: 2px;
-    width: 30%;
-    height: 200px;
+    width: 40%;
+    height: 350px;
     border: #3a3a3a 3px solid;
     
     
@@ -324,6 +324,11 @@ footer {
     .ingredients {
         margin-top: 40px;
     }
+
+    iframe {
+        width: 60%;
+        height: 330px;
+    }
     
 }
 
@@ -343,6 +348,11 @@ footer {
         border: #e49a65 2px solid;
         height: 400px;
         width: 60%;
+}
+
+iframe {
+    width: 50%;
+    height: 300px;
 }
 
 }
@@ -390,7 +400,8 @@ footer {
     }
 
     iframe {
-        width: 50%;
+        width: 55%;
+        height: 280px;
     }
     
 
@@ -406,6 +417,7 @@ footer {
 
 iframe {
     width: 50%;
+    height: 250px;
 }
 
 }
@@ -505,6 +517,7 @@ iframe {
 
     iframe {
         width: 60%;
+        height: 230px;
     }
     
 
@@ -621,6 +634,7 @@ iframe {
 
     iframe {
     width: 70%;
+    height: 200px;
 }
 
 
@@ -662,6 +676,7 @@ iframe {
 
 iframe {
     width: 75%;
+    height: 175px;
 }
 
 
