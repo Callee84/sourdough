@@ -172,8 +172,17 @@ p {
 
 .video {
     margin: auto;
-    height: 150px;
-    width: 200px;
+    margin-top: 75px;
+    text-align: center;
+}
+
+iframe {
+    padding: 2px;
+    width: 30%;
+    height: 200px;
+    border: #3a3a3a 3px solid;
+    
+    
 }
 
 /* contact.html */
