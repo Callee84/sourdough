@@ -14,7 +14,7 @@ The site, in all its simplicity, is designed as a simple (maybe not bakingwise) 
 ***
 
 ## The Site
-[Sourdough bread](https://callee84.github.io/surdegen/index.html)
+[Sourdough bread](https://callee84.github.io/sourdough/index.html)
 
 ***
 
