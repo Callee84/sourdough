@@ -102,7 +102,17 @@ I've also tested the site using the w3c html checker and jigsaw css tetser with 
 ***
 
 ## Deployment
-This site was build using GitPod and deployd via GitHub.
+This site was build using GitPod and deployd via GitHub. 
+
+Deploy to GitHub Pages
+* This is done by going to the "settings" tab in the GitHub repository. (step 1 in picture below)
+* After selecting settings you click the "page" tab on the left side of the page. (step 2 in picture below)
+* Third step is to select the option "main" under the first dropdown with the default value of "none" and save. (step 3 i picture)
+* After you hit the save button the page will refresh and show the url generated to your site. (step 4 i picture below)
+
+![Screenshot of deployment of site via Github](/assets/images-readme/screen-github.png)
+
+
 
 ***
 
