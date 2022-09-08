@@ -32,7 +32,7 @@ The footer contians links to varius social media.
 ***
 
 ## Site Structure
-The site contains of five pages - index (loadingpage), recipe, sourdough, contact and a form response page called thanks.
+The site contains of five pages - index (loading page), recipe, sourdough, contact and a form response page called thanks.
 Consistent thoughout the pages are the image in the header but with a different on-image-text on all pages.
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
