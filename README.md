@@ -23,7 +23,9 @@ I've choosen a website with simple features so the visitor easily can navigate t
 
 Starting with the sticky navigation bar at the top that follows the visitor down through the page for quick and easy navigation through the website. The navigation bar also has a hover function which highlights the current position. This hover-function also appears on the contact form and in the footer on the social media links.
 
-On the loadingpage I have added a zoom out effect on the center image. 
+On the landing page I have added a zoom out effect on the center image. 
+
+I've also added a ifram to the sourdough page with a video of how to make a sourdough starter.
 
 On the contact site I've put in a contact form in case any visitor need some help. Clicking the submit-button takes the visitor to a confirmation page named "thanks.html".
 
@@ -36,10 +38,10 @@ The site contains of five pages - index (loading page), recipe, sourdough, conta
 Consistent thoughout the pages is the image in the header aswell as the sticky navigation bar, but with a different on-image-text on all pages.
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
-### *The landing page (index)*
+### *The landing page - home page (index)*
 Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. A link in the text to the reicpe aswell as the sticky navigation bar.
 
-![Screenshot of homepage (index)](assets/images-readme/screen-index.png)
+![Screenshot of home page (index)](assets/images-readme/screen-index.png)
 
 ### *Recipe*
 The recipe side is a made up by a 9 step list that is numbered. Above that list is another unordered list containing the ingridients. 
@@ -47,7 +49,7 @@ The recipe side is a made up by a 9 step list that is numbered. Above that list 
 ![Screenshot of Recipe page](/assets/images-readme/screen-recipe.png)
 
 ### *Sourdough*
-This side is also made up by a list in 3 steps and describes how to make a sourdough starter. 
+This side is also made up by a list in 3 steps and describes how to make a sourdough starter. I've also included a video via youtube in to a iframe. 
 
 ![Screenshot of sourdough page](/assets/images-readme/screen-sourdough.png)
 
@@ -104,15 +106,13 @@ I've also tested the site using the w3c html checker and jigsaw css tetser with 
 ## Deployment
 This site was build using GitPod and deployd via GitHub. 
 
-Deploy to GitHub Pages
+### Deploy to GitHub Pages
 * This is done by going to the "settings" tab in the GitHub repository. (step 1 in picture below)
 * After selecting settings you click the "page" tab on the left side of the page. (step 2 in picture below)
 * Third step is to select the option "main" under the first dropdown with the default value of "none" and save. (step 3 i picture)
 * After you hit the save button the page will refresh and show the url generated to your site. (step 4 i picture below)
 
 ![Screenshot of deployment of site via Github](/assets/images-readme/screen-github.png)
-
-
 
 ***
 
