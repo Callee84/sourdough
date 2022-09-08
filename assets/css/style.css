@@ -170,6 +170,12 @@ p {
     list-style-type: none;
 }
 
+.video {
+    margin: auto;
+    height: 150px;
+    width: 200px;
+}
+
 /* contact.html */
 
 .questions {
