@@ -389,6 +389,11 @@ footer {
         margin-top: 60px;
     }
 
+    iframe {
+        width: 50%;
+    }
+    
+
 }
 
 @media screen and (max-width: 750px) {
@@ -398,6 +403,11 @@ footer {
         margin-top: 270px;
         margin-bottom: 20px;
 }
+
+iframe {
+    width: 50%;
+}
+
 }
 
 @media screen and (max-width: 710px) {
@@ -441,6 +451,11 @@ footer {
     .sourdough-start{
         margin-bottom: 20px;
     }
+
+    iframe {
+        width: 60%;
+    }
+    
 
     .questions {
         margin: auto;
@@ -487,6 +502,11 @@ footer {
         line-height: 50px;
         margin-bottom: 50px;
     }
+
+    iframe {
+        width: 60%;
+    }
+    
 
     .questions {
         margin: auto;
@@ -560,6 +580,11 @@ footer {
         line-height: 50px;
     }
 
+    iframe {
+        width: 65%;
+    }
+    
+
     .thanks {
         margin: auto;
         border: #e49a65 2px solid;
@@ -590,10 +615,14 @@ footer {
        margin-top: 480px;
    }  
 
-
-   .ingredients {
+    .ingredients {
     margin-top: 120px;
 }
+
+    iframe {
+    width: 70%;
+}
+
 
 .thanks {
     margin: auto;
@@ -630,6 +659,11 @@ footer {
    .ingredients {
     margin-top: 120px;
 }
+
+iframe {
+    width: 75%;
+}
+
 
 .thanks {
     margin: auto;
