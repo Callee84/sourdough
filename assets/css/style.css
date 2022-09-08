@@ -13,7 +13,6 @@ body {
     font-family: 'oswald', sans-serif;
     font-weight: 300;
     color :#3a3a3a;
-
 }
 
 /* Nav-bar and Logo */
@@ -91,6 +90,7 @@ h3 {
 p {
     text-align: center;
     font-size: 140%;
+    padding: 0 8%;
 }
 
 /* index.html */
@@ -138,8 +138,9 @@ p {
 }
 
 .recipe li {
-    list-style-type: disc;
+    list-style-type: none;
     margin: 7px;
+    padding: 1% 5%;
 }
 
 /* sourdough.html */
@@ -153,6 +154,11 @@ p {
     font-size: 140%;
     line-height: 2;
     margin-bottom: -50px;
+    padding: 1% 5%;
+}
+
+.sourdough-start > ol {
+    list-style-type: none;
 }
 
 /* contact.html */
@@ -161,7 +167,7 @@ p {
     margin: auto;
     margin-top: 40px;
     border: #3a3a3a 2px solid;
-    width: 50%;
+    width: 40%;
     height: 400px;
     text-align: center; 
     
@@ -282,6 +288,14 @@ footer {
 /* for medium screens size from 950 and smaller */
 
 @media screen and (max-width: 920px) {
+   
+    .center-img {
+        height: 400px;
+        background: url('../images/surdeg-recipe.jpeg') no-repeat center;
+        margin-top: 130px;
+        margin-bottom: 20px;
+    }
+    
     .thanks {
         margin: auto;
         border: #e49a65 2px solid;
@@ -289,8 +303,18 @@ footer {
         width: 60%;
 }
 
+}
+
 @media screen and (max-width: 850px) {
- .starter {
+
+.center-img {
+    height: 400px;
+    background: url('../images/surdeg-recipe.jpeg') no-repeat center;
+    margin-top: 180px;
+    margin-bottom: 20px;
+}    
+
+.starter {
     line-height: 30px;
  }
 }
@@ -315,7 +339,7 @@ footer {
 
 @media screen and (max-width: 800px) {
     .center-img {
-        margin-top: 150px;
+        margin-top: 190px;
         background: url('../images/surdeg-small.jpeg') no-repeat center;
     }
 
@@ -323,9 +347,15 @@ footer {
         margin-top: 60px;
     }
 
-    .sourdough-start {
-        margin-bottom: 30px;
-    }
+}
+
+@media screen and (max-width: 750px) {
+    .center-img {
+        height: 400px;
+        background: url('../images/surdeg-small.jpeg') no-repeat center;
+        margin-top: 270px;
+        margin-bottom: 20px;
+}
 }
 
 @media screen and (max-width: 710px) {
@@ -367,7 +397,7 @@ footer {
     }   
    
     .sourdough-start{
-        margin-bottom: 50px;
+        margin-bottom: 20px;
     }
 
     .questions {
@@ -413,7 +443,7 @@ footer {
 
     .sourdough-start {
         line-height: 50px;
-        margin-bottom: 130px;
+        margin-bottom: 50px;
     }
 
     .questions {
@@ -515,7 +545,7 @@ footer {
 
    .center-img {
        margin-bottom: 50px;
-       margin-top: 450px;
+       margin-top: 480px;
    }  
 
 
@@ -550,7 +580,7 @@ footer {
 
    .center-img {
        margin-bottom: 50px;
-       margin-top: 530px;
+       margin-top: 550px;
        height: 230px;
    }  
 
@@ -564,6 +594,5 @@ footer {
     border: #e49a65 2px solid;
     height: 850px;
     width: 40%;
-}
 }
 }

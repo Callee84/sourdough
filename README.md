@@ -25,15 +25,15 @@ Starting with the sticky navigation bar at the top that follows the visitor down
 
 On the loadingpage I have added a zoom out effect on the center image. 
 
-On the contact site I've put in a contact form in case any visitor need some help. Clicking the submit-button takes the visitor to a confirmationpage named "thanks.html".
+On the contact site I've put in a contact form in case any visitor need some help. Clicking the submit-button takes the visitor to a confirmation page named "thanks.html".
 
-The footer contians links to varius social media. 
+The footer contians links to varius social media which opens in a new tab. 
 
 ***
 
 ## Site Structure
 The site contains of five pages - index (loading page), recipe, sourdough, contact and a form response page called thanks.
-Consistent thoughout the pages are the image in the header but with a different on-image-text on all pages.
+Consistent thoughout the pages is the image in the header aswell as the sticky navigation bar, but with a different on-image-text on all pages.
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
 ### *The landing page (index)*
@@ -52,7 +52,7 @@ This side is also made up by a list in 3 steps and describes how to make a sourd
 ![Screenshot of sourdough page](/assets/images-readme/screen-sourdough.png)
 
 ### *Contact*
-Contact side consists of a form divided in to three textfields. The email and the quesiton-input is required to fill in to be able hit the submit-button.
+Contact side consists of a form divided in to three text fields. All three text fields is required to fill in to be able hit the submit-button.
 
 ![Screenshot of contact page](/assets/images-readme/screen-contact.png)
 
