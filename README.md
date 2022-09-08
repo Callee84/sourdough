@@ -75,9 +75,27 @@ However I've also tested the sites performance using GT-metrix and got the score
 
 I've also tested the site using the w3c html checker and jigsaw css tetser with no reported warnings.
 
-![Screenshot of index testscore using w3c validator](/assets/images-readme/screen-w3c.png)
+#### *Loadingpage (index.html)*
 
+![Screenshot of index-page testscore using w3c validator](/assets/images-readme/screen-w3c.png)
 
+#### *recipe.html*
+
+![Screenshot of recipe-page testscore using w3c validator](/assets/images-readme/screen-html-sourdough.png)
+
+#### *sourdough.html*
+
+![Screenshot of sourdough-page testscore using w3c validator](/assets/images-readme/screen-html-sourd.png)
+
+#### *contact.html*
+
+![Screenshot of contact-page testscore using w3c validator](/assets/images-readme/screen-html-contact.png)
+
+#### *thanks.html*
+
+![Screenshot of thanks-page testscore using w3c validator](/assets/images-readme/screen-html-thanks.png)
+
+#### *CSS*
 
 ![Screenshot of testscore using w3c jigsaw css validator](/assets/images-readme/w3c-css.png)
 
