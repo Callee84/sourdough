@@ -14,7 +14,7 @@ The site, in all its simplicity, is designed as a simple (maybe not bakingwise) 
 ***
 
 ## The Site
-[Sourdough bread](https://callee84.github.io/sourdough/index.html)
+[Sourdough](https://callee84.github.io/sourdough/index.html)
 
 ***
 
@@ -34,7 +34,7 @@ The footer contians links to varius social media which opens in a new tab.
 ***
 
 ## Site Structure
-The site contains of five pages - index (loading page), recipe, sourdough, contact and a form response page called thanks.
+The site contains of five pages - *index (loading page)*, *recipe*, *sourdough*, *contact* and a form response page called *thanks*.
 Consistent thoughout the pages is the image in the header aswell as the sticky navigation bar, but with a different on-image-text on all pages.
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
