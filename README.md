@@ -25,7 +25,7 @@ Starting with the sticky navigation bar at the top that follows the visitor down
 
 On the landing page I have added a zoom out effect on the center image. 
 
-I've also added a ifram to the sourdough page with a video of how to make a sourdough starter.
+I've also added an iframe to the sourdough page with a video of how to make a sourdough starter.
 
 On the contact site I've put in a contact form in case any visitor need some help. Clicking the submit-button takes the visitor to a confirmation page named "thanks.html".
 
@@ -39,7 +39,7 @@ Consistent thoughout the pages is the image in the header aswell as the sticky n
 As I described at the start the website has a very clean structure. As this is mainly a recipe-site it should be av very easy navigated site. 
 
 ### *The landing page - home page (index)*
-Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. A link in the text to the reicpe aswell as the sticky navigation bar.
+Is designed as a simple welcome-page. Containing a quick welcome-text and an inspirational bread-picture. This picture also changes to a more mobilefriendly pic when sized down. There's also a link in the text to the reicpe page, aswell as in the sticky navigation bar.
 
 ![Screenshot of home page (index)](assets/images-readme/screen-index.png)
 
@@ -49,7 +49,7 @@ The recipe side is a made up by a 9 step list that is numbered. Above that list 
 ![Screenshot of Recipe page](/assets/images-readme/screen-recipe.png)
 
 ### *Sourdough*
-This side is also made up by a list in 3 steps and describes how to make a sourdough starter. I've also included a video via youtube in to a iframe. 
+This side is also made up by a list in 3 steps and describes how to make a sourdough starter. I've also included a video via youtube in to an iframe. 
 
 ![Screenshot of sourdough page](/assets/images-readme/screen-sourdough.png)
 
@@ -59,7 +59,7 @@ Contact side consists of a form divided in to three text fields. All three text 
 ![Screenshot of contact page](/assets/images-readme/screen-contact.png)
 
 ### *Thanks*
-When the submit button is trigged it sends the visitor to a confirmation page containing a simple message that the form has been sent and an answer is to be expected.
+When the submit button is trigged on the contact page, it sends the visitor to a confirmation page containing a simple message that the form has been sent and an answer is to be expected. I've also added button that takes the visitor back to the home page.
 
 ![Screenshot of form respons page](/assets/images-readme/screen-thanks.png)
 
@@ -127,6 +127,7 @@ This site was build using GitPod and deployd via GitHub.
 
 ### Media
 * Images used on site comes from the site [Pexels](https://www.pexels.com/) and is free to use.
+* Video in iframe on sourdoogh page is linked to a youtube video.
 
 ### Special thanks
 * To my mentor Harry Dhillon for exeptional help and guidance.
