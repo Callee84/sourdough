@@ -127,7 +127,7 @@ This site was build using GitPod and deployd via GitHub.
 
 ### Media
 * Images used on site comes from the site [Pexels](https://www.pexels.com/) and is free to use.
-* Video in iframe on sourdoogh page is linked to a youtube video.
+* Video in iframe on sourdough page is linked to a youtube video.
 
 ### Special thanks
 * To my mentor Harry Dhillon for exeptional help and guidance.
